@@ -1,5 +1,10 @@
 # Mahmoud Alboredy
 
+{% assign current_date = site.time %}
+{% assign target_date = '2024-08-01' | date: "%Y-%m-%d" %}
+{% assign months_diff = current_date | months_between: target_date %}
+<p>( {{ months_diff }} Months )</p>
+
 ## Summary
 I’m an active professional with extensive experience in customer communication and process optimization within the telecommunications industry. Proficient at complaints handling and conflict resolution. Skilled in SharePoint management, MS Power Platform, and MS Office.
 - Created interactive BI dashboards for performance tracking on YoY, MoM, and DoD.
