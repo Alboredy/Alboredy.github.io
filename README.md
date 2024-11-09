@@ -1,9 +1,19 @@
 # Mahmoud Alboredy
 
-{% assign current_date = site.time %}
-{% assign target_date = '2024-08-01' | date: "%Y-%m-%d" %}
-{% assign months_diff = current_date | months_between: target_date %}
-<p>( {{ months_diff }} Months )</p>
+from datetime import datetime
+
+# Define the target date (1st August 2024)
+target_date = datetime(2024, 8, 1)
+
+# Get the current date
+current_date = datetime.now()
+
+# Calculate the difference in months
+months_difference = (target_date.year - current_date.year) * 12 + target_date.month - current_date.month
+
+# Output the result in the desired format
+print(f"({months_difference} Months)")
+
 
 ## Summary
 I’m an active professional with extensive experience in customer communication and process optimization within the telecommunications industry. Proficient at complaints handling and conflict resolution. Skilled in SharePoint management, MS Power Platform, and MS Office.
