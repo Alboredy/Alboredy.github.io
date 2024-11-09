@@ -1,6 +1,3 @@
-# Alboredy.github.io
-
-
 # Mahmoud Alboredy
 
 ## Summary
