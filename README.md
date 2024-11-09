@@ -54,12 +54,8 @@ Bachelor's degree, Business Administration and Management, General
 - PMP ATP Learner Kit Information - Skillsoft 7402442
 
 ## Skills
-- Microsoft Power Platform
-- Analytical Skills
-- Business Process Improvement
-- Optimization
-- Microsoft Office
-- Microsoft Power Apps
-- Microsoft Power BI
-- Microsoft Excel
-- Microsoft Word
+| Microsoft Power Platform | Analytical Skills |
+| Business Process Improvement | Optimization |
+| Microsoft Office | Microsoft Power Apps |
+| Microsoft Power BI | Microsoft Excel |
+| Microsoft Word | SQL |
