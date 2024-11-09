@@ -1,19 +1,8 @@
 # Mahmoud Alboredy
 
-from datetime import datetime
+# Time Remaining
 
-# Define the target date (1st August 2024)
-target_date = datetime(2024, 8, 1)
-
-# Get the current date
-current_date = datetime.now()
-
-# Calculate the difference in months
-months_difference = (target_date.year - current_date.year) * 12 + target_date.month - current_date.month
-
-# Output the result in the desired format
-print(f"({months_difference} Months)")
-
+The project will be completed in **(X Months)**. (Where X is the number of months from now to August 1, 2024)
 
 ## Summary
 I’m an active professional with extensive experience in customer communication and process optimization within the telecommunications industry. Proficient at complaints handling and conflict resolution. Skilled in SharePoint management, MS Power Platform, and MS Office.
