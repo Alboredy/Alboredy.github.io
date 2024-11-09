@@ -3,10 +3,6 @@
 
 # Mahmoud Alboredy
 
-**Email:** alboredym@outlook.com  
-**Phone:** +201090667899  
-**LinkedIn:** *An external link was removed to protect your privacy.*
-
 ## Summary
 I’m an active professional with extensive experience in customer communication and process optimization within the telecommunications industry. Proficient at complaints handling and conflict resolution. Skilled in SharePoint management, MS Power Platform, and MS Office.
 - Created interactive BI dashboards for performance tracking on YoY, MoM, and DoD.
