@@ -10,7 +10,7 @@ I’m an active professional with extensive experience in customer communication
 ## Experience
 
 ### CIoT Global Service Desk Specialist, _VOIS
-**Aug 2023 - Present (11 months)**
+**Aug 2023 - Present (1 Year)**
 - Handled Vodafone consumer IoT CBU across Europe and Africa, through hybrid channels including chat and calls; supporting the full customer life cycle including ticketing on BMC remedy.
 - Actively worked in the decommissioning of V by Vodafone products line and worked on setting the process and communication approach to 40k+ customers cross channels for the UK market.
 - Worked on process automation and developed an all-in-one Power apps hub for managing customer callbacks, warranty validation, exchange processing, and contact note creation.
