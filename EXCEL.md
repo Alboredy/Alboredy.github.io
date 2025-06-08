@@ -2,7 +2,7 @@
 
 ## Summary
 I’m an active professional with extensive experience in customer communication and process optimization within the telecommunications industry. Proficient at complaints handling and conflict resolution. Skilled in SharePoint management, MS Power Platform, and MS Office.
-- Created interactive BI dashboards for performance tracking on YoY, MoM, and DoD.
+- Created interactive BI dashboards for performance tracking on YoY & MoM.
 - Developed department-specific applications to:
   - Reduce handling time by 25% with average utilization passing 76% for CC Resolution Managers.
   - Automated 9 daily processes for CIoT and validate warranties, exchange requests, and reduce submission time.
