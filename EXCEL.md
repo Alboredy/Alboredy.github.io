@@ -1,4 +1,4 @@
-# Mahmoud Alboredy
+# Excel Takways
 
 ## Summary
 I’m an active professional with extensive experience in customer communication and process optimization within the telecommunications industry. Proficient at complaints handling and conflict resolution. Skilled in SharePoint management, MS Power Platform, and MS Office.
