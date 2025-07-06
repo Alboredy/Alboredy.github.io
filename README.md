@@ -59,6 +59,7 @@ Bachelor's degree, Business Administration and Management, General
 - McKinsey Forward Program - McKinsey & Company
 - PMP ATP Learner Kit Information - Skillsoft 7402442
 
+
 ## Skills
 |Skill   |   |
 |----------|----------|
