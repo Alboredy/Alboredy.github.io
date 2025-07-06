@@ -16,7 +16,7 @@ I’m an active professional with extensive experience in customer communication
 - Worked on process automation and developed an all-in-one Power apps hub for managing customer callbacks, warranty validation, exchange processing, and contact note creation.
 - Designed a BI performance dashboard as an enhancement to traditional spreadsheets for improved business and performance analysis.
 
-### Customer Relations Specialist, _VOIS
+### Customer Relations Specialist, VOIS
 **Jan 2023 - Jul 2023 (7 months)**
 - Participated in testing and implementing various strategies for managing customer complaints using different models through voice and email with a resolution rate of 98.5% and minimal re-open rate and a QA rate exceeding 95%.
 - Developed and delivered a comprehensive guide to the use of the complaints management system in multiple formats and sessions.
