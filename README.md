@@ -60,12 +60,21 @@ Bachelor's degree, Business Administration and Management, General
 - PMP ATP Learner Kit Information - Skillsoft 7402442
 
 
-## Skills
-- MS Power Platform
+## Technical Skills
 - Copilot Studio
+- Agentic Orchestration
 - Power BI
--PowerApps
--Power Automate
+- PowerApps
+- Power Automate
+- MS Office (Excel, Word, PowerPoint, outlook)
+- Visio
+
+## Soft Skils
+- Stakholder Management
+- Conflict resolution
+- Technical Translation
+- Process optimization centric
+
 
 |Skill   |   |
 |----------|----------|
