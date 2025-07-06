@@ -60,7 +60,8 @@ Bachelor's degree, Business Administration and Management, General
 - PMP ATP Learner Kit Information - Skillsoft 7402442
 
 
-## Technical Skills
+## Skills
+### Technical
 - Copilot Studio
 - Agentic Orchestration
 - Power BI
@@ -69,7 +70,7 @@ Bachelor's degree, Business Administration and Management, General
 - MS Office (Excel, Word, PowerPoint, outlook)
 - Visio
 
-## Soft Skils
+### Soft
 - Stakholder Management
 - Conflict resolution
 - Technical Translation
