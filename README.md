@@ -9,13 +9,13 @@ I’m an active professional with extensive experience in customer communication
 
 ## Experience
 
-### Global Enterprise Billing Lead,VOIS
+### Global Enterprise Billing Lead, VOIS
 **Aug 2024 ‐ Present**
 - Lead billing cluster knowledge base assessment, revamping and introduction of Kowladge Management System/Flow with agentic AI power with ISO 9001 for analyest on boarding and up skilling journey simplification.
 - Acted as technical consultant of the credit assurance team in building efficiency improvement app to amalgamate non structured tasks into templated unified responses, along to insights gathering on queries handling and productivity tracking.
  
 
-### CIoT Global Service Desk Specialist, _VOIS
+### CIoT Global Service Desk Specialist, VOIS
 **Aug 2023 - Aug 2024 (1 Year)**
 - Handled Vodafone consumer IoT CBU across Europe and Africa, through hybrid channels including chat and calls; supporting the full customer life cycle including ticketing on BMC remedy.
 - Actively worked in the decommissioning of V by Vodafone products line and worked on setting the process and communication approach to 40k+ customers cross channels for the UK market.
