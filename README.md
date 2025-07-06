@@ -61,6 +61,11 @@ Bachelor's degree, Business Administration and Management, General
 
 
 ## Skills
+- MS Power Platform
+-- Copilot Studio
+-- Power BI
+-- PowerApps
+-- Power Automate
 |Skill   |   |
 |----------|----------|
 | Microsoft Power Platform | Microsoft Power Apps |
