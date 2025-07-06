@@ -40,7 +40,7 @@ I’m an active professional with extensive experience in customer communication
 - Collaborated with internal communications and took part in media coverage of internal and external visits.
 - Effectively managed lost hours and compensation reporting, ensuring minimal loss.
 
-### Hypercare & Complaints Advisor, _VOIS
+### Hypercare & Complaints Advisor, VOIS
 **Apr 2021 - Oct 2021 (7 months)**
 - Played a key role in the launch of the department as a member of the pilot team, which involved contributing to the development of operational processes and procedures.
 - Reported Daily & MTD operational lost hours reports for a team of 100-150 advisors, assisting in governing the lost hours and improving overall productivity.
