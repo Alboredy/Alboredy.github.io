@@ -58,17 +58,20 @@ Bachelor's degree, Business Administration and Management, General
 
 
 ## Skills
+- Project Management
+
 ### Technical
 - Copilot Studio
-- Agentic Orchestration
+- SharePoint
 - Power BI
-- PowerApps
 - Power Automate
+- PowerApps
 - MS Office (Excel, Word, PowerPoint, outlook)
 - Visio
+- SQL
 
 ### Soft
 - Stakholder Management
-- Conflict resolution
+- Conflict Resolution
 - Technical Translation
-- Process optimization centric
+- Process Optimization
