@@ -1,8 +1,5 @@
 # **Summary**
-- Spearheaded the development and implementation of AI-powered Knowledge Management Systems, significantly streamlining information retrieval and enhancing operational efficiency.  
-- Designed and deployed department-specific applications that automate critical processes, reducing human error and improving productivity.  
-- Proven ability to lead cross-functional teams in complex projects, driving innovation and delivering measurable improvements in business operations.
-
+- Digital savvy with 6 years of experience in telecom sector and solid record of digital processes transformation. Self motivated and people focused ensuring successful transformation outcomes through strong stakeholder engagement and capability-building programs.
 ---
 
 # **Experience**
