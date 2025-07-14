@@ -4,8 +4,8 @@
 
 ## **Global Enterprise Billing Lead, VOIS**  
 **Aug 2024 ‐ Present**
-- Spearheaded the development and implementation of an ISO 9001 compliant Knowledge Management System (KMS) powered by an AI agent built on Copilot Studio. Reduced 1,000+ outdated documents to 100+ high-impact, operations-specific documents, designed with feedback loops and scalability across squads. Projected to cut knowledge lookup time from 20–30 mins to 30 seconds across 8 global sites.  
-- Acted as technical consultant to the Credit Assurance team; built an efficiency app unifying 7 fragmented response processes. The app automates calculations (e.g., billing cycles, due dates), pre-fills email templates, reduces manual effort by 15%, and improves accuracy by 20%.  
+- Lead the development and implementation of an ISO 9001 compliant Knowledge Management System (KMS) at Vodafone Global Enterprise (VGE) Billing powered by an AI agent built on Copilot Studio. Reduced 1,000+ outdated documents to 100+ high-impact, operations-specific documents, designed with feedback loops and scalability across squads. Projected to cut knowledge lookup time from 20–30 mins to 30 seconds across 8 global sites.  
+- Acted as technical consultant to the UK Billing Credit Assurance team; built an efficiency app unifying 7 fragmented response processes. The app automates calculations (e.g., billing cycles, due dates), pre-fills email templates, reduces manual effort by 15%, and improves accuracy by 20%.  
 - Led cross-functional teams through authoring, testing, and quality approval of new KMS content and processes.
 
 ---
