@@ -73,9 +73,8 @@
 # **Skills**
 
 ### **Project Management**
-- Project Lifecycle Oversight  
-- Cross-functional Team Coordination  
-- Agile & Waterfall Methodologies
+- Project Lifecycle Oversight
+- Cross-functional Team Coordination
 
 ### **Technical**
 - Copilot Studio  
@@ -85,15 +84,13 @@
 - PowerApps  
 - Microsoft Office Suite (Excel, Word, PowerPoint, Outlook)  
 - Visio  
-- SQL  
-- Natural Language Processing (NLP)  
-- Retrieval-Augmented Generation (RAG) Configuration  
-- Active Directory (AD) Configuration
+- SQL
+- RAG Configuration  
+
 
 ### **Soft Skills**
 - Stakeholder Management  
 - Conflict Resolution  
 - Technical Translation  
 - Process Optimization  
-- Knowledge Management  
-- Team Leadership & Management (Authoring, Testing, Quality Approvals)
+- Knowledge Management
