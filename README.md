@@ -1,6 +1,4 @@
-# **Summary**
-- Digital savvy with 6 years of experience in telecom sector and solid record of digital processes transformation. Self motivated and people focused ensuring successful transformation outcomes through strong stakeholder engagement and capability-building programs.
----
+
 
 # **Experience**
 
