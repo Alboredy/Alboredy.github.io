@@ -4,9 +4,12 @@
 
 ## **Global Enterprise Billing Analyst, VOIS**  
 **Aug 2024 ‐ Present**
-#### Kindi AI Development 
-- Lead the development and implementation of an ISO 9001 Compliant Knowledge Management System at Vodafone Global Enterprise (VGE) Billing powered by an AI agent built on Copilot Studio. Reduced 1,000+ outdated documents to 100+ high-impact, operations-specific documents, designed with feedback loops and scalability across squads. Projected to cut knowledge lookup time from 20–30 mins to 30 seconds across 8 global sites.  
+#### Kindi AI Development - Digital Guru 
 - Led cross-functional teams through authoring, testing, and quality approval of new KMS content and processes.
+- Lead the development and implementation of an ISO 9001 Compliant Knowledge Management System at Vodafone Global Enterprise (VGE) Billing powered by an AI agent built on Copilot Studio.
+- Reduced 1,000+ outdated documents to 100+ high-impact and operations-specific documents, designed with feedback loops and scalability across squads.
+- Projected to cut knowledge lookup time from 20–30 mins to 30 seconds across 8 global sites among current and new analysts.  
+
 #### F4 Invoice Production Squad
 - Developed an autonomous report that supports validation of €20+ million in invoices value per month, by systematically filtering approved accounts, identifying and flagging rejected accounts and generating comprehensive reports of the outputs to relevant stakeholders.
 #### Technical Consultancy
