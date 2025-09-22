@@ -81,15 +81,16 @@
 
 ### **Project Management**
 
-| Project Lifecycle Oversight                     | Cross-functional Team Coordination                          |
+| Kanban                     | Scrum                          |
 |----------------------------|----------------------------------|
-| Kanban | Scrum |
+| Project Lifecycle Oversight | Cross-functional Team Coordination |
 
 ---
 
 ### **Technical**
 | Copilot Studio                     | SharePoint Optimization                          |
-|----------------------------|----------------------------------| | Power BI                                  | Power Automate                               |
+|----------------------------|----------------------------------| 
+| Power BI                                  | Power Automate                               |
 | PowerApps                                 | Microsoft Office Suite (Excel, Word, PowerPoint, Outlook) |
 | Visio                                     | SQL                                          |
 | RAG Configuration                         |                                              |
