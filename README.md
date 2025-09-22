@@ -25,7 +25,6 @@
 - Contributed to decommissioning "V by Vodafone," designing cross-channel communication for over 40,000 UK customers.  
 - Developed an all-in-one PowerApps hub for managing callbacks, warranty validation, exchanges, and contact notes.  
 - Designed and deployed a BI dashboard to replace static spreadsheets for enhanced performance tracking.
-- 
 
 ---
 
@@ -80,25 +79,26 @@
 
 # **Skills**
 
-### **Project Management**
-- Project Lifecycle Oversight
-- Cross-functional Team Coordination
+| **Project Management** | |
+| - Project Lifecycle Oversight | |
+| - Cross-functional Team Coordination | |
 
-### **Technical**
-- Copilot Studio  
-- SharePoint Optimization (AI Retrievals)  
-- Power BI  
-- Power Automate  
-- PowerApps  
-- Microsoft Office Suite (Excel, Word, PowerPoint, Outlook)  
-- Visio  
-- SQL
-- RAG Configuration  
+| **Technical** | |
+| - Copilot Studio | |
+| - SharePoint Optimization (AI Retrievals) | |
+| - Power BI | |
+| - Power Automate | |
+| - PowerApps | |
+| - Microsoft Office Suite (Excel, Word, PowerPoint, Outlook) | |
+| - Visio | |
+| - SQL | |
+| - RAG Configuration | |
 
+| **Soft Skills** | |
+| - Stakeholder Management | |
+| - Conflict Resolution | |
+| - Technical Translation | |
+| - Process Optimization | |
 
-### **Soft Skills**
-- Stakeholder Management  
-- Conflict Resolution  
-- Technical Translation  
-- Process Optimization  
-- Knowledge Management
+| Technical Translation    |
+| Process Optimization     |
