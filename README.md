@@ -8,8 +8,8 @@
 #### Kindi AI Project - Digital Guru 
 - Initiated the project’s idea and led cross-functional teams **End-to-End** toward building digital guru to guide through internal working instructions, systems and products.
 - This encompassed reducing **1,000+** outdated documents to **70+ high-impact** and operations specific documents.
-- Kindi is ISO 9001 Compliant for document management with strong feedback loops and scalable model across the business.
-- Projected to cut knowledge lookup time from 20–30 mins to 30 seconds across 8 global sites among current and new analysts.  
+- Kindi is **ISO 9001 Compliant** for document management with strong feedback loops and scalable model across the business.
+- Projected to cut knowledge lookup time from **20–30 mins to 30 seconds** across 8 global sites among current and new analysts.  
 
 #### F4 Invoice Production Squad
 - Developed an autonomous report that supports validation of €20+ million in invoices value per month, by systematically filtering approved accounts, identifying and flagging rejected accounts and generating comprehensive reports of the outputs to relevant stakeholders.
