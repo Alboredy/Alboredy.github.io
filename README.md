@@ -88,7 +88,8 @@
 ---
 
 ### **Technical**
-
+| Skill 1                     | Skill 2                          |
+|----------------------------|----------------------------------|
 Tool / Technology 1Tool / Technology 2Copilot StudioSharePoint Optimization (AI Retrievals)| Power BI                                  | Power Automate                               |
 | PowerApps                                 | Microsoft Office Suite (Excel, Word, PowerPoint, Outlook) |
 | Visio                                     | SQL                                          |
