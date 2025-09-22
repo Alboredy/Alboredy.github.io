@@ -79,26 +79,31 @@
 
 # **Skills**
 
-| **Project Management** | |
-| - Project Lifecycle Oversight | |
-| - Cross-functional Team Coordination | |
+### **Project Management**
 
-| **Technical** | |
-| - Copilot Studio | |
-| - SharePoint Optimization (AI Retrievals) | |
-| - Power BI | |
-| - Power Automate | |
-| - PowerApps | |
-| - Microsoft Office Suite (Excel, Word, PowerPoint, Outlook) | |
-| - Visio | |
-| - SQL | |
-| - RAG Configuration | |
+| Skill                         |
+|------------------------------|
+| Project Lifecycle Oversight |
+| Cross-functional Team Coordination |
 
-| **Soft Skills** | |
-| - Stakeholder Management | |
-| - Conflict Resolution | |
-| - Technical Translation | |
-| - Process Optimization | |
+---
 
-| Technical Translation    |
-| Process Optimization     |
+### **Technical**
+
+| Tool / Technology                          |
+|--------------------------------------------|
+| Copilot Studio                             |
+| SharePoint Optimization (AI Retrievals)    |
+| Power BI                                   |
+| Power Automate                             |
+| PowerApps                                  |
+| Microsoft Office Suite (Excel, Word, PowerPoint, Outlook) |
+| Visio                                      |
+| SQL                                        |
+| RAG Configuration                          |
+
+---
+
+### **Soft Skills**
+
+SkillStakeholder ManagementConflict ResolutionTechnical TranslationProcess Optimization| Knowledge Management     |
