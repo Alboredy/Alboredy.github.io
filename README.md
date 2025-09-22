@@ -99,5 +99,5 @@
 ### **Soft Skills**
 | Skill 1                     | Skill 2                          |
 |----------------------------|----------------------------------|
-Skill 1Skill 2Stakeholder ManagementConflict Resolution| Technical Translation    | Process Optimization   |
+Stakeholder ManagementConflict Resolution| Technical Translation    | Process Optimization   |
 | Knowledge Management     |                        |
