@@ -22,7 +22,7 @@
 ## **CIoT Global Service Desk Specialist, VOIS**  
 **Aug 2023 – Aug 2024**  
 - Managed Vodafone consumer IoT CBU across Europe and Africa via chat and calls, supporting the full customer lifecycle and ticketing via BMC Remedy.  
-- Contributed to decommissioning "V by Vodafone," designing cross-channel communication for over 40K UK customers.  
+- Contributed to decommissioning "V by Vodafone," designing cross-channel communication for over 40,000 UK customers.  
 - Developed an all-in-one PowerApps hub for managing callbacks, warranty validation, exchanges, and contact notes.  
 - Designed and deployed a BI dashboard to replace static spreadsheets for enhanced performance tracking.
 
