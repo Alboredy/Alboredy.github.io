@@ -1,12 +1,11 @@
 
-
-# **Experience**
+## Experience
 
 ## **Global Enterprise Billing Analyst, VOIS**  
 **Aug 2024 ‐ Present**
 ### VGE - Vodafone Global Enterprise 
 #### Kindi AI Project - Digital Guru 
-- Initiated the project’s idea and led cross-functional teams **End-to-End** toward building digital guru to guide through internal working instructions, systems and products.
+-   Initiated the project’s idea and led cross-functional teams **End-to-End** toward building digital guru to guide through internal working instructions, systems and products.
 - This encompassed reducing **1,000+** outdated documents to **70+ high-impact** and operations specific documents.
 - Kindi is **ISO 9001 Compliant** for document management with strong feedback loops and scalable model across the business.
 - Projected to cut knowledge lookup time from 20–30 mins to 30 seconds across 8 global sites among current and new analysts.  
@@ -14,7 +13,7 @@
 #### F4 Invoice Production Squad
 - Developed an autonomous report that supports validation of €20+ million in invoices value per month, by systematically filtering approved accounts, identifying and flagging rejected accounts and generating comprehensive reports of the outputs to relevant stakeholders.
 
-### UK Billing Credit Assurance
+#### UK Billing Credit Ass-urance
 - Acted as technical consultant in building an efficiency app unifying 7 fragmented response processes. The app automates calculations (e.g. billing cycles, due dates), pre-fills email templates, reduces manual effort, and improves accuracy.
 
 ---
@@ -63,6 +62,12 @@
 - Acted as SPOC for scheduling, lost hours, and overtime tracking.  
 - Developed and deployed an automated Excel calculator to streamline reporting and scheduling.
 
+***
+
+## Skills
+
+* **Project Management**: Agile, Strategic Planning, Documentation
+* **Power Platform**: Power BI, Power Automate, PowerApps, Copilot Studio
 ---
 
 # **Education**
