@@ -81,9 +81,9 @@
 
 ### **Project Management**
 
-| Skill 1                     | Skill 2                          |
+| Project Lifecycle Oversight                     | Cross-functional Team Coordination                          |
 |----------------------------|----------------------------------|
-| Project Lifecycle Oversight | Cross-functional Team Coordination |
+| Kanban | Scrum |
 
 ---
 
