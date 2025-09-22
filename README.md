@@ -98,6 +98,7 @@ Tool / Technology 1Tool / Technology 2Copilot StudioSharePoint Optimization (AI 
 ---
 
 ### **Soft Skills**
-
+| Skill 1                     | Skill 2                          |
+|----------------------------|----------------------------------|
 Skill 1Skill 2Stakeholder ManagementConflict Resolution| Technical Translation    | Process Optimization   |
 | Knowledge Management     |                        |
