@@ -81,7 +81,6 @@
 
 ### **Project Management**
 
-| Skill                         |
 |------------------------------|
 | Project Lifecycle Oversight |
 | Cross-functional Team Coordination |
@@ -90,8 +89,8 @@
 
 ### **Technical**
 
-| Tool / Technology                          |
-|--------------------------------------------|
+
+|-----------|:---------:|
 | Copilot Studio                             |
 | SharePoint Optimization (AI Retrievals)    |
 | Power BI                                   |
@@ -105,5 +104,7 @@
 ---
 
 ### **Soft Skills**
-
-SkillStakeholder ManagementConflict ResolutionTechnical TranslationProcess Optimization| Knowledge Management     |
+|-----------|:---------:|
+| Stakeholder Management | Conflict Resolution | 
+| Technical Translation | Process Optimization |
+| Knowledge Management |
