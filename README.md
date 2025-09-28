@@ -97,8 +97,8 @@
 |----------------------------|----------------------------------| 
 | Power BI                                  | Power Automate                               |
 | PowerApps                                 | Microsoft Office Suite (Excel, Word, PowerPoint, Outlook) |
-| Visio                                     | SQL                                          |
-| RAG Configuration                         |                                              |
+| ETL                                     | SQL                                          |
+| Visio                         | RAG Configuration                                             |
 
 ---
 
