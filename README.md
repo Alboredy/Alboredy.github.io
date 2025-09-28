@@ -82,3 +82,27 @@
 
 ---
 
+# **Skills**
+
+### **Project Management**
+
+| Kanban                     | Scrum                          |
+|----------------------------|----------------------------------|
+| Project Lifecycle Oversight | Cross-functional Team Coordination |
+
+---
+
+### **Technical**
+| Copilot Studio                     | SharePoint Optimization                          |
+|----------------------------|----------------------------------| 
+| Power BI                                  | Power Automate                               |
+| PowerApps                                 | Microsoft Office Suite (Excel, Word, PowerPoint, Outlook) |
+| ETL                                     | SQL                                          |
+| Visio                         | RAG Configuration                                             |
+
+---
+
+### **Soft Skills**
+| Stakeholder Management                     | Conflict Resolution                           |
+|----------------------------|----------------------------------|
+ Knowledge Management | Technical Translation    | Process Optimization   |
