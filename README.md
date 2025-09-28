@@ -103,7 +103,7 @@
 ---
 
 ### **Soft Skills**
-| Stakeholder Management                     | Skill 2                          |
+| Stakeholder Management                     | Conflict Resolution 2                          |
 |----------------------------|----------------------------------|
- Conflict Resolution | Technical Translation    | Process Optimization   |
-| Knowledge Management     |                        |
+ Knowledge Management | Technical Translation    | Process Optimization   |
+|      |                        |
