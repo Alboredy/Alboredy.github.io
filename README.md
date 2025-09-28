@@ -1,4 +1,18 @@
+---
+name: Mahmoud Alboredy
+header:
+  - text: |
+      <span style="font-size: 1.2em; font-weight: bold;"></span>
+  - text: <span class="iconify" data-icon="tabler:phone"></span> +20 109066 7899
+    newLine: true
+  - text: <span class="iconify" data-icon="tabler:mail"></span> mahmoud.alboredy@outlook.com
+    link: mailto:mahmoud.alboredy@outlook.com
+  - text: <span class="iconify" data-icon="tabler:brand-linkedin"></span> linkedin.com/in/alboredy/
+    link: https://www.linkedin.com/in/alboredy/
+  - text: <span class="iconify" data-icon="charm:person"></span> Alboredy.github.io/
+    link: https://alboredy.github.io/
 
+    
 ## Experience
 
 ## **Global Enterprise Billing Analyst, VOIS**  
