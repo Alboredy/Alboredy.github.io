@@ -12,7 +12,9 @@ header:
   - text: <span class="iconify" data-icon="charm:person"></span> Alboredy.github.io/
     link: https://alboredy.github.io/
 
-    
+    Increase handling efficiency by 25% with average utilization passing 76% for Complaint Resolution Managers.
+
+
 ## Experience
 
 ## **Global Enterprise Billing Analyst, VOIS**  
@@ -35,8 +37,8 @@ header:
 ## **CIoT Global Service Desk Specialist, VOIS**  
 **Aug 2023 – Aug 2024**  
 - Managed Vodafone consumer IoT CBU across Europe and Africa via chat and calls, supporting the full customer lifecycle and ticketing via BMC Remedy.  
-- Contributed to decommissioning "V by Vodafone," designing cross-channel communication for over 40,000 UK customers.  
-- Developed an all-in-one PowerApps hub for managing callbacks, warranty validation, exchanges, and contact notes.  
+- Contributed to decommissioning V by Vodafone, designing cross-channel communication for over 40,000 UK customers.  
+- Worked process automation and developed all-in-one Power apps for daily activities including managing customer warranty validation and exchange processing. The tool helped in reducing handling time and additional expresses of invalid exchange requests while maintaining compliance with GDPR guidelines.
 - Designed and deployed a BI dashboard to replace static spreadsheets for enhanced performance tracking.
 
 ---
@@ -59,7 +61,7 @@ header:
 ## **Resolution Specialist, VOIS**  
 **Nov 2021 – Oct 2022**  
 - Resolved escalations, analyzed system defects via Jira, and tested pre-launch beta systems.  
-- Collaborated with internal communications and supported media coverage.  
+- Collaborated with internal communications and supported media coverage for high profile visits.  
 - Oversaw lost hours and compensation reporting to minimize operational leakage.
 
 ---
