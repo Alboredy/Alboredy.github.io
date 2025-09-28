@@ -1,108 +1,103 @@
+---
+name: Mahmoud Alboredy
+header:
+  - text: <span class="" data-icon="tabler:phone"></span> +20 109 066 7899
+    newLine: true
+  - text: <span class="iconify" data-icon="tabler:mail"></span> mahmoud.alboredy@outlook.com
+    link: mailto:mahmoud.alboredy@outlook.com
+  - text: <span class="iconify" data-icon="tabler:brand-linkedin"></span> Alboredy
+    link: https://linkedin.com/in/alboredy
+  - text: <span class="iconify" data-icon="charm:person"></span> Alboredy.github.io
+    link: https://alboredy.github.io/
+---
+
+<!-- Important: Replace all template content, especially contact details, with your own information. -->
+
+<!-- Important: When updating your email address, remember to change both the "text" (visible text) and the "link" (underlying hyperlink) fields. -->
+
+
+## Education
+
+**Harvest University**
+  ~ Cambridge, MA
+
+M.S. in Cooking Science
+  ~ 09/2021 - 01/2023
+
+**Huangdu Institute of Tofu**
+  ~ Shanghai, China
+
+B.Eng. in Salad Engineering
+  ~ 09/2016 - 07/2020
+
+
+## Publications
+
+[~P1]: **Eating is All You Need**
+
+    <u>Haha Ha</u>, San Zhang
+
+    *Conference on Nutritional Ingredients Processing Systems (NIPS), 2099*
+
+[~P2]: **You Only Cook Once: Unified, Real-Time Mapo Tofu Recipe**
+
+    <u>Haha Ha</u>, San Zhang, Si Li, Wu Wang
+
+    *Culinary Visualization and Potato Roasting Conference (CVPR), 2077 **(Best Paper Honorable Mention)***
+
 
 ## Experience
 
-## **Global Enterprise Billing Analyst, VOIS**  
-**Aug 2024 ‐ Present**
-### VGE - Vodafone Global Enterprise 
-#### Kindi AI Project - Digital Guru 
--   Initiated the project’s idea and led cross-functional teams **End-to-End** toward building digital guru to guide through internal working instructions, systems and products.
-- This encompassed reducing **1,000+** outdated documents to **70+ high-impact** and operations specific documents.
-- Kindi is **ISO 9001 Compliant** for document management with strong feedback loops and scalable model across the business.
-- Projected to cut knowledge lookup time from 20–30 mins to 30 seconds across 8 global sites among current and new analysts.  
+**Cooking Engineer Intern**
+  ~ Microwavesoft
+  ~ 07/2021 - Present
 
-#### F4 Invoice Production Squad
-- Developed an autonomous report that supports validation of €20+ million in invoices value per month, by systematically filtering approved accounts, identifying and flagging rejected accounts and generating comprehensive reports of the outputs to relevant stakeholders.
+- Developed an innovative, versatile cooking methodology applicable across diverse ingredients, incorporating and improving upon recent culinary trends
+- Created a streamlined cream of mushroom soup recipe, achieving results comparable to complex state-of-the-art techniques through a novel mushroom-cutting approach; published in NIPS 2099 (see [~P1])
+- Designed a specialized cooking pan that enhanced research efficiency for team members
 
-#### UK Billing Credit Ass-urance
-- Acted as technical consultant in building an efficiency app unifying 7 fragmented response processes. The app automates calculations (e.g. billing cycles, due dates), pre-fills email templates, reduces manual effort, and improves accuracy.
 
----
+**Engineering Chef Intern**
+  ~ University of California, Berkebake
+  ~ 08/2020 - Present
 
-## **CIoT Global Service Desk Specialist, VOIS**  
-**Aug 2023 – Aug 2024**  
-- Managed Vodafone consumer IoT CBU across Europe and Africa via chat and calls, supporting the full customer lifecycle and ticketing via BMC Remedy.  
-- Contributed to decommissioning "V by Vodafone," designing cross-channel communication for over 40,000 UK customers.  
-- Developed an all-in-one PowerApps hub for managing callbacks, warranty validation, exchanges, and contact notes.  
-- Designed and deployed a BI dashboard to replace static spreadsheets for enhanced performance tracking.
+- Developed a precise mapo tofu quality assessment technique using thermometer-based measurements
+- Invented a rapid stir-frying algorithm for tofu cooking, replacing vague instructions like "add as much as you can" with specific hot sauce measurements; published in CVPR 2077 (see [~P2])
+- Outperformed SOTA cooking methods in both efficiency and quality across experiments with popular tofu types
 
----
 
-## **Customer Relations Specialist, VOIS**  
-**Jan 2023 – Jul 2023**  
-- Resolved customer complaints across channels with a resolution rate of 98.5% and QA rate >95%.  
-- Created a comprehensive guide to the complaints system and delivered it via multiple formats and sessions.  
-- Built and maintained a SharePoint hub for complaints insight management, enabling real-time feedback loops and reducing average handling time (AHT).
+**Student Chef**
+  ~ Cabbage Melon University
+  ~ 03/2020 - 06/2020
 
----
+- Developed an innovative mapo tofu consumption framework utilizing a spoon-chopstick combination
+- Engineered a filtering method for tofu dataset creation, inspired by bean grinding techniques
+- Established two new metrics for evaluating eating plan novelty and diversity
+- Significantly surpassed existing methods and baselines in diversity, novelty, and coherence
 
-## **Compliance Specialist, VOIS**  
-**Nov 2022 – Dec 2022**  
-- Audited converged care and tech service compliance by verifying system actions aligned with business rules.  
-- Conducted training sessions on regulatory adherence across teams.
 
----
+**Research Chef Intern**
+  ~ Snapchopstick
+  ~ 07/2018 - 08/2018
 
-## **Resolution Specialist, VOIS**  
-**Nov 2021 – Oct 2022**  
-- Resolved escalations, analyzed system defects via Jira, and tested pre-launch beta systems.  
-- Collaborated with internal communications and supported media coverage.  
-- Oversaw lost hours and compensation reporting to minimize operational leakage.
+- Designed two novel sandwiches by repurposing breads and meat from traditional bacon cheeseburgers, maximizing resource efficiency
+- Leveraged structure duality to boost cooking speed for two complementary tasks based on shared ingredients
+- Surpassed strong baselines on QWE'15 and ASDF'14 dataset
 
----
 
-## **Hypercare & Complaints Advisor, VOIS**  
-**Apr 2021 – Oct 2021**  
-- Member of the department launch pilot team; co-developed core processes.  
-- Managed daily/month-to-date lost hours reporting for 100–150 advisors, driving governance and operational productivity.
+## Awards and Honors
 
----
+**Gold**, International Collegiate Catching Fish Contest (ICCFC)
+  ~ 2018
 
-## **Customer Care Advisor, VOIS**  
-**Oct 2019 – Mar 2021**  
-- Acted as SPOC for scheduling, lost hours, and overtime tracking.  
-- Developed and deployed an automated Excel calculator to streamline reporting and scheduling.
+**First Prize**, China National Scholarship for Outstanding Dragon Killers
+  ~ 2017, 2018
 
-***
 
 ## Skills
 
-* **Project Management**: Agile, Strategic Planning, Documentation
-* **Power Platform**: Power BI, Power Automate, PowerApps, Copilot Studio
----
+**Programming Languages:** <span class="iconify" data-icon="vscode-icons:file-type-python"></span> Frython, <span class="iconify" data-icon="vscode-icons:file-type-js-official"></span> JavaSauce / <span class="iconify" data-icon="vscode-icons:file-type-typescript-official"></span> TypeSauce, <span class="iconify" data-icon="vscode-icons:file-type-cpp2"></span> Cheese++, <span class="iconify" data-icon="logos:java" data-inline="false"></span> Java Bean
 
-# **Education**
-**Alexandria University**  
-*Bachelor's Degree in Business Administration and Management, General*
+**Tools and Frameworks:** GrillHub, PanFlow, TensorFork, SpiceNet, $\LaTeX$
 
----
-
-# **Licenses & Certifications**
-- PMP ATP Learner Kit – *Skillsoft (ID: 7402442)*  
-- McKinsey Forward Program – *McKinsey & Company*
-
----
-
-# **Skills**
-
-### **Project Management**
-
-| Kanban                     | Scrum                          |
-|----------------------------|----------------------------------|
-| Project Lifecycle Oversight | Cross-functional Team Coordination |
-
----
-
-### **Technical**
-| Copilot Studio                     | SharePoint Optimization                          |
-|----------------------------|----------------------------------| 
-| Power BI                                  | Power Automate                               |
-| PowerApps                                 | Microsoft Office Suite (Excel, Word, PowerPoint, Outlook) |
-| ETL                                     | SQL                                          |
-| Visio                         | RAG Configuration                                             |
-
----
-
-### **Soft Skills**
-| Stakeholder Management                     | Conflict Resolution                           |
-|----------------------------|----------------------------------|
- Knowledge Management | Technical Translation    | Process Optimization   |
+**Languages:** Chinese (native), English (proficient)
