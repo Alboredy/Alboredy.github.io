@@ -1,124 +1,123 @@
----
-name: Mahmoud Alboredy
-header:
-  - text: |
-      <span style="font-size: 1.2em; font-weight: bold;"></span>
-  - text: <span class="iconify" data-icon="tabler:phone"></span> +20 109066 7899
-    newLine: true
-  - text: <span class="iconify" data-icon="tabler:mail"></span> mahmoud.alboredy@outlook.com
-    link: mailto:mahmoud.alboredy@outlook.com
-  - text: <span class="iconify" data-icon="tabler:brand-linkedin"></span> linkedin.com/in/alboredy/
-    link: https://www.linkedin.com/in/alboredy/
-  - text: <span class="iconify" data-icon="charm:person"></span> Alboredy.github.io/
-    link: https://alboredy.github.io/
+```markdown
+# Mahmoud Alboredy
 
-    Increase handling efficiency by 25% with average utilization passing 76% for Complaint Resolution Managers.
-
-
-## Experience
-
-## **Global Enterprise Billing Analyst, VOIS**  
-**Aug 2024 ‐ Present**
-### VGE - Vodafone Global Enterprise 
-#### Kindi AI Project - Digital Guru 
--   Initiated the project’s idea and led cross-functional teams **End-to-End** toward building digital guru to guide through internal working instructions, systems and products.
-- This encompassed reducing **1,000+** outdated documents to **70+ high-impact** and operations specific documents.
-- Kindi is **ISO 9001 Compliant** for document management with strong feedback loops and scalable model across the business.
-- Projected to cut knowledge lookup time from 20–30 mins to 30 seconds across 8 global sites among current and new analysts.  
-
-#### F4 Invoice Production Squad
-- Developed an autonomous report that supports validation of €20+ million in invoices value per month, by systematically filtering approved accounts, identifying and flagging rejected accounts and generating comprehensive reports of the outputs to relevant stakeholders.
-
-#### UK Billing Credit Ass-urance
-- Acted as technical consultant in building an efficiency app unifying 7 fragmented response processes. The app automates calculations (e.g. billing cycles, due dates), pre-fills email templates, reduces manual effort, and improves accuracy.
+📍 Egypt | 📞 +20 1090 667 899 | ✉️ Mahmoud.alboredy@outlook.com
+🔗 [linkedin.com/in/alboredy](https://linkedin.com/in/alboredy) | 🌐 [alboredy.github.io](https://alboredy.github.io)
 
 ---
 
-## **CIoT Global Service Desk Specialist, VOIS**  
-**Aug 2023 – Aug 2024**  
-- Managed Vodafone consumer IoT CBU across Europe and Africa via chat and calls, supporting the full customer lifecycle and ticketing via BMC Remedy.  
-- Contributed to decommissioning V by Vodafone, designing cross-channel communication for over 40,000 UK customers.  
-- Worked process automation and developed all-in-one Power apps for daily activities including managing customer warranty validation and exchange processing. The tool helped in reducing handling time and additional expresses of invalid exchange requests while maintaining compliance with GDPR guidelines.
-- Designed and deployed a BI dashboard to replace static spreadsheets for enhanced performance tracking.
+## Professional Summary
+
+I'm a digitalization advocate with 7 years of experience in Consumer and Enterprise BU transformation and process optimization to drive seamless customers and user experience. I led several projects using MS Power Platform, MS Office and additional Microsoft tools to drive process simplicity. My experience ranged on the full customer life cycle from onboarding to services sunset.
 
 ---
 
-## **Customer Relations Specialist, VOIS**  
-**Jan 2023 – Jul 2023**  
-- Resolved customer complaints across channels with a resolution rate of 98.5% and QA rate >95%.  
-- Created a comprehensive guide to the complaints system and delivered it via multiple formats and sessions.  
-- Built and maintained a SharePoint hub for complaints insight management, enabling real-time feedback loops and reducing average handling time (AHT).
+## Professional Experience
+
+### VOIS (Vodafone Intelligent Solutions) | Egypt
+
+#### Enterprise Billing Transformation Lead
+*Aug 2024 – Present*
+
+Lead digital transformation and process automation across multiple fronts:
+
+- **Kindi AI Project:** A Copilot Studio & SharePoint based Digital Billing Guru. Managed SharePoint Knowledge Base architecture and Agent orchestration, resulting in up to 90 minutes saved per user in knowledge lookup time. *(See P1 in Projects)*
+- **Billing Access Manager:** Championed creation of centralized access control to billing tools and sites through unified gateways using Azure AD security groups. *(See P2 in Projects)*
+- **F4 Invoice Validation:** Developed an autonomous Power Query-based system for validating €20M+ in invoices monthly, automating account approval, rejection, and stakeholder reporting. Resulted in zero validation errors since implementation in June.
+- **Technical Consultancy:** Acted as technical consultant for several internal teams (PMO, Activations, Credit Assurance) on process optimization initiatives using SharePoint, Power Platform, MS Office, and PowerShell.
+
+#### CIoT Global Service Desk Specialist
+*Aug 2023 – Oct 2024*
+
+- **CIOT Hub:** Designed and deployed an all-in-one PowerApps hub for customer service, consolidating callbacks, warranty validation, exchanges, contact notes, and customer escalation management into a unified digital platform.
+- **Performance Dashboard:** Transitioned from static spreadsheets to a Power BI dashboard, enabling real-time performance monitoring across multiple markets and improving operational transparency and decision-making. Eliminated data deletion errors and enabled periodic and on-demand data updates.
+
+#### Customer Relations Specialist
+*Jan 2023 – Jul 2023*
+
+- **Agents DB & RMs Tool:** Created a PowerApps solution for complaints management used in customer contact memo generation, contact type insights tracking, internal agents lookup, and template generation — achieving an average 25% improvement in AHT.
+- **Reporting Dashboard:** Built Power BI reports using data gathered via the RMs tool, enabling real-time analysis of complaints drivers, volumes, and team performance.
+- **Beta Testing:** Participated in early systems testing, defect analysis, and logging on Jira, and assisted with system fixes.
+
+#### Previous Roles: Compliance Specialist | Resolution Specialist | Hypercare & Complaints Advisor | Customer Care Advisor
+*Oct 2019 – Dec 2022*
+
+- Developed process documentation, automated Excel tools, and managed reporting for a 150 FTE team to support operational productivity and data-driven decision-making in the absence of real-time monitoring tools.
+- Audited service compliance, facilitated regulatory training sessions, and acted as an escalation point for complex technical and process queries, including CEO complaints.
 
 ---
 
-## **Compliance Specialist, VOIS**  
-**Nov 2022 – Dec 2022**  
-- Audited converged care and tech service compliance by verifying system actions aligned with business rules.  
-- Conducted training sessions on regulatory adherence across teams.
+## Key Projects
+
+### P1 | Kindi AI – Digital Guru
+
+A Copilot Studio & SharePoint based billing expert offering an end-to-end guide through processes and actions.
+
+**Value Proposition:**
+- Up to 90 minutes saved daily per user for knowledge lookup
+- Compliant with ISO 9001 standards
+- Defined lookup and retrieval scope
+
+**Responsibilities:**
+- Led E2E design and implementation, including managing 20+ cross-functional analysts for content creation, QA review, and UAT
+- SharePoint architecture design and development
+- Copilot Studio orchestration of parent & child agents with role-based retrieval controls
+- Established data governance framework using SharePoint Permissions and Security Groups, and created user access self-service tools on PowerApps
+- Created automation flows to audit content relevance and send owners reminders to review and update content via tracking mechanisms
 
 ---
 
-## **Resolution Specialist, VOIS**  
-**Nov 2021 – Oct 2022**  
-- Resolved escalations, analyzed system defects via Jira, and tested pre-launch beta systems.  
-- Collaborated with internal communications and supported media coverage for high profile visits.  
-- Oversaw lost hours and compensation reporting to minimize operational leakage.
+### P2 | Billing Access Manager
+
+A unified access gateway using Azure AD Security Groups to control access to multiple tools and sites.
+
+**Key Benefits:**
+- **One-Stop Access:** Add or remove users in one place and permissions update everywhere
+- **Quick Onboarding/Offboarding:** New team members get access instantly; leavers lose access right away
+- **Secure & Compliant:** All changes are tracked for security and audit purposes
+- **Saves Time:** No more manual permission updates for every app or site
+
+**Responsibilities:**
+- Ensured creation and syncing of Security Groups on Azure
+- Ensured correct audiences were added to corresponding groups
+- Built approved users list and child membership list
+- Created automation flow to extract members list and send periodic access audits to relevant stakeholders
 
 ---
-
-## **Hypercare & Complaints Advisor, VOIS**  
-**Apr 2021 – Oct 2021**  
-- Member of the department launch pilot team; co-developed core processes.  
-- Managed daily/month-to-date lost hours reporting for 100–150 advisors, driving governance and operational productivity.
-
----
-
-## **Customer Care Advisor, VOIS**  
-**Oct 2019 – Mar 2021**  
-- Acted as SPOC for scheduling, lost hours, and overtime tracking.  
-- Developed and deployed an automated Excel calculator to streamline reporting and scheduling.
-
-***
 
 ## Skills
 
-* **Project Management**: Agile, Strategic Planning, Documentation
-* **Power Platform**: Power BI, Power Automate, PowerApps, Copilot Studio
----
-
-# **Education**
-**Alexandria University**  
-*Bachelor's Degree in Business Administration and Management, General*
-
----
-
-# **Licenses & Certifications**
-- PMP ATP Learner Kit – *Skillsoft (ID: 7402442)*  
-- McKinsey Forward Program – *McKinsey & Company*
+| Technical Skills | Platforms / Tools | Expertise Areas |
+|---|---|---|
+| Architecture Design | Copilot Studio | Solution Design |
+| Requirements Analysis | Power Apps | Digital Process Transformation |
+| Project Management | Power BI | Business Intelligence |
+| Scrum & Kanban | Power Automate | Process Improvement |
+| Technical Process Documentation | SharePoint | Change Management |
+| | MS Office (Excel, Word & PowerPoint) | Cross-functional Leadership |
+| | Power Query | Stakeholder Engagement |
+| | SQL | |
 
 ---
 
-# **Skills**
+## Training & Certifications
 
-### **Project Management**
-
-| Kanban                     | Scrum                          |
-|----------------------------|----------------------------------|
-| Project Lifecycle Oversight | Cross-functional Team Coordination |
-
----
-
-### **Technical**
-| Copilot Studio                     | SharePoint Optimization                          |
-|----------------------------|----------------------------------| 
-| Power BI                                  | Power Automate                               |
-| PowerApps                                 | Microsoft Office Suite (Excel, Word, PowerPoint, Outlook) |
-| ETL                                     | SQL                                          |
-| Visio                         | RAG Configuration                                             |
+- **CAPM®:** Project Management Key Concepts | #16460844
+- **Project Management Professional (PMP)** | #7402442
+- **Microsoft Certified:** Power Platform App Maker Associate (PL-100)
+- **Microsoft Certified:** Power Platform Solution Architect Expert (PL-700)
 
 ---
 
-### **Soft Skills**
-| Stakeholder Management                     | Conflict Resolution                           |
-|----------------------------|----------------------------------|
- Knowledge Management | Technical Translation    | Process Optimization   |
+## Education
+
+**Bachelor's Degree, Business Administration and Management**
+Alexandria University, Egypt
+
+---
+
+## Languages
+
+- English — Full Professional
+- Arabic — Native / Bilingual
+```
