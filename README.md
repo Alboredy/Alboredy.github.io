@@ -1,8 +1,8 @@
 ```markdown
 # Mahmoud Alboredy
 
-📍 Egypt | 📞 +20 1090 667 899 | ✉️ Mahmoud.alboredy@outlook.com
-🔗 [linkedin.com/in/alboredy](https://linkedin.com/in/alboredy) | 🌐 [alboredy.github.io](https://alboredy.github.io)
+ Egypt |  +20 1090 667 899 |  Mahmoud.alboredy@outlook.com
+ [linkedin.com/in/alboredy](https://linkedin.com/in/alboredy) |  [alboredy.github.io](https://alboredy.github.io)
 
 ---
 
